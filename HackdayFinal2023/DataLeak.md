@@ -1,8 +1,7 @@
 En lisant l'énoncé on nous parle d'écouter etc on comprend donc qu'il faut surement écouter le réseau sachant qu'aucun fichier n'était donné au début, et vu que l'on sait qu'on est sur un subnet par équipe il y a peu de bruit.
 
 On remarque assez facilement les gros blocs de Requêtes UDP, 
-![image](https://github.com/kylmegawar/Writeups/assets/94079228/1e632d41-1693-4a1c-a872-ef561d9d6b9f)
-
+![Uploading image.png…]()
 On vois notament une liste de pokémon, des url en bit.ly de rikroll et le nom des équipes.
 
 Au début, j'ai testé les url en me disant qu'une url parmis les... beaucoup trop menaient vers le flag mais en recherchant un peu on tombe sur un tool magique
